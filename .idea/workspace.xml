@@ -5,55 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="646d3239-5138-433d-a037-942f2aa46939" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/StagepassApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/controller/ArtistController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/controller/BookingController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/controller/ConcertController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/controller/VenueController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/exception/GlobalExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/exception/InsufficientSeatsException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/model/Artist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/model/Booking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/model/Concert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/model/Venue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/repository/ArtistRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/repository/BookingRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/repository/ConcertRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/repository/VenueRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/service/ArtistService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/service/BookingService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/service/ConcertService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/service/VenueService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/nl/pluralsight/stagepass/StagepassApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/StagepassApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/controller/ArtistController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/controller/BookingController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/controller/ConcertController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/controller/VenueController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/exception/GlobalExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/exception/InsufficientSeatsException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/model/Artist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/model/Booking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/model/Concert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/model/Venue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/repository/ArtistRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/repository/BookingRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/repository/ConcertRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/repository/VenueRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/service/ArtistService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/service/BookingService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/service/ConcertService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/nl/pluralsight/stagepass/service/VenueService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

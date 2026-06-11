@@ -1,3 +1,6 @@
+CREATE SCHEMA IF NOT EXISTS `stagepass`;
+use stagepass;
+
 -- Artists
 INSERT INTO artist (name, genre, bio) VALUES ('The Rolling Stones', 'Rock', 'Legendary British rock band formed in London in 1962.');
 INSERT INTO artist (name, genre, bio) VALUES ('Dua Lipa', 'Pop', 'English-Albanian singer and songwriter known for her disco-pop style.');
