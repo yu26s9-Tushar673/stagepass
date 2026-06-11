@@ -48,6 +48,9 @@ public class BookingService {
         booking.setBookingDate(LocalDate.now());
         booking.setConcert(concert);
 
+        // Decrement the seats in concert
+        concert.setAvailableSeats(concert.getAvailableSeats() - booking.getNumberOfTickets());
+
         return bookingRepository.save(booking);
     }
 
