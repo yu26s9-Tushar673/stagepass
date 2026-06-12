@@ -51,6 +51,11 @@ public class BookingService {
         // Decrement the seats in concert
         concert.setAvailableSeats(concert.getAvailableSeats() - booking.getNumberOfTickets());
 
+        // Update total price
+        BigDecimal ticketPrice = concert.getTicketPrice();
+        BigDecimal numTickets = BigDecimal.valueOf(booking.getNumberOfTickets());
+        booking.setTotalPrice(ticketPrice.multiply(numTickets));
+
         return bookingRepository.save(booking);
     }
 

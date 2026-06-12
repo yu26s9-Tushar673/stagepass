@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="646d3239-5138-433d-a037-942f2aa46939" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/controller/ArtistController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/controller/ArtistController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/controller/BookingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/controller/BookingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/controller/ConcertController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/controller/ConcertController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/controller/VenueController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/controller/VenueController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/service/BookingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nl/pluralsight/stagepass/service/BookingService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
